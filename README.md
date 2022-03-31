@@ -6,8 +6,9 @@
 	src="https://www.kroochut.com/wp-content/uploads/2020/02/coding-freak.gif"
 	alt="coding"
 />
-- 🌱 I’m currently learning **React, Redux and Next.js** - 💬 Ask me about
-**JavaScript, Node, Mongodb** - 📫 How to reach me **wasimbaig000@gmail.com**
+- 🌱 I’m currently learning **React, Redux and Next.js** 
+- 💬 Ask me about **JavaScript, Node, Mongodb** 
+- 📫 How to reach me **wasimbaig000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
