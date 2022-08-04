@@ -1,25 +1,82 @@
-<h1 align="center">Hi 👋, I'm Wasim</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<img align="right" width="400px" src="https://www.kroochut.com/wp-content/uploads/2020/02/coding-freak.gif" alt="coding"/>
+## Hi, I'm Wasim 👋
 
+<br />
 
-- 🌱 I’m currently learning **React, Redux and Next.js**
+💡 &nbsp;A [pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)\
+🌱 &nbsp;Learning something new about 💻 every day.\
+🏹 &nbsp;In my free time, I 🎧, 🏃 or 📖\
+📪 &nbsp;Feel free to reach out to me if you have any questions, or a meme worth sharing.\
+🔬 &nbsp;Take a look at my [Resume]() for more details. 
 
-- 💬 Ask me about **JavaScript, Node, Mongodb**
+<br />
 
-- 📫 How to reach me **wasimbaig000@gmail.com**
+### 🛠 &nbsp;Daily drivers
 
-<h3 align="left">Connect with me:</h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-171722?style=for-the-badge&logo=github)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-DF6D17?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-05200F?style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
+![Mac OS](https://img.shields.io/badge/mac%20os-171717?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
+<!-- ![NextJS](https://img.shields.io/badge/nextjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp; -->
+
+<br />
+
+<!-- ### &nbsp;Worked with
+
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Storybook](https://img.shields.io/badge/-Storybook-000000?style=for-the-badge&logo=storybook&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-000000.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br /> -->
+
+### 💡 &nbsp;Interested in
+
+![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
+![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)&nbsp;
+
+<br />
+
+### ⚙️ &nbsp;Some Stats
+
 <p align="left">
-<a href="https://twitter.com/wasim_ay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasim_ay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wasim-ay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasim-ay" height="30" width="40" /></a>
-<a href="https://instagram.com/wasim.ay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasim.ay" height="30" width="40" /></a>
+  <a href="https://ognjenbostjancic.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wasim-ay&show_icons=true&theme=onedark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasim-ay&theme=onedark&hide_border=true" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasim-ay&show_icons=true&locale=en" alt="wasim-ay" /></p>
+### 🤝🏻 &nbsp;Get in touch
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasim-ay&" alt="wasim-ay" /></p>
+<p align="left">
+<a href="https://www.wasimbaig.com"><img src="https://img.shields.io/badge/-personal%20page-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:wasimbaig000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wasim-ay/count.svg" />
+</p>
