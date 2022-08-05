@@ -60,7 +60,7 @@
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <a href="https://ognjenbostjancic.com/">
+  <a href="#">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wasim-ay&show_icons=true&theme=onedark&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasim-ay&theme=onedark&hide_border=true" />
   </a>
