@@ -66,6 +66,10 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=onedark&hide_border=true" />
   </a>
 </p>
+<br>
+<p align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=282C34&color=DF6D74&line=C6A76E&point=FFFFFF&hide_border=true">
+</p>
 
 <br />
 
