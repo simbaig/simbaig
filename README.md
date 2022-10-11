@@ -68,9 +68,7 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://www.wasimbaig.com">
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&   hide_border=true">
-    </a>
 </p>
 
 <br />
