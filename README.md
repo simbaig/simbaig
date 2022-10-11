@@ -61,14 +61,16 @@
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <a href="/">
+  <a href="https://www.wasimbaig.com">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=simbaig&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=radical&hide_border=true" />
   </a>
 </p>
 <br>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+  <a href="https://www.wasimbaig.com">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=simbaig&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&   hide_border=true">
+    </a>
 </p>
 
 <br />
