@@ -67,13 +67,13 @@
   </a>
 </p>
 <br>
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=simbaig&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
-</p>
-<br />
 <!-- <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=simbaig&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=simbaig&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
 </p> -->
+<br />
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=simbaig&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+</p>
 
 <br />
 
