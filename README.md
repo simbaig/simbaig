@@ -6,7 +6,7 @@
 🌱 &nbsp;Learning something new about 💻 every day.\
 🏹 &nbsp;In my free time, I 🎧, 🏃 or 📖\
 📪 &nbsp;Feel free to reach out to me if you have any questions, or a meme worth sharing.\
-🔬 &nbsp;Take a look at my [Resume](https://www.wasimbaig.com/resume.pdf) for more details. 
+🔬 &nbsp;Take a look at my [Resume](https://www.wasimbaig.in/resume.pdf) for more details. 
 
 <br />
 
