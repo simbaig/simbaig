@@ -80,7 +80,7 @@
 ### 🤝🏻 &nbsp;Get in touch
 
 <p align="left">
-<a href="https://www.wasimbaig.in"><img src="https://img.shields.io/badge/-personal%20page-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://wasimb.vercel.app"><img src="https://img.shields.io/badge/-personal%20page-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:wasimbaig000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
