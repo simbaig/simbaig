@@ -61,7 +61,7 @@
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <a href="https://www.wasimbaig.com">
+  <a target="_blank" href="https://wasimb.vercel.app">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=simbaig&show_icons=true&theme=radical&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=simbaig&theme=radical&hide_border=true" />
   </a>
@@ -80,8 +80,8 @@
 ### 🤝🏻 &nbsp;Get in touch
 
 <p align="left">
-<a href="https://wasimb.vercel.app"><img src="https://img.shields.io/badge/-personal%20page-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://wasimb.vercel.app"><img src="https://img.shields.io/badge/-personal%20page-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:wasimbaig000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
