@@ -1,14 +1,14 @@
-<a href="https://wasim.is-a.dev"><img width="100%" src="assets/header.svg" alt="Wasim Baig - Web / Cloud / Security" /></a>
+<a href="https://wasim.is-a.dev" target="_blank"><img width="100%" src="assets/header.svg" alt="Wasim Baig - Web / Cloud / Security" /></a>
 
 <p align="center">
-  <a href="https://wasim.is-a.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Aspiring+Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
+  <a href="https://wasim.is-a.dev" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Aspiring+Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://wasim.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://wasim.is-a.dev/resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
-  <a href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:wasimbaig000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a target="_blank" href="https://wasim.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a target="_blank" href="https://wasim.is-a.dev/resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/wasim-ay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a target="_blank" href="mailto:wasimbaig000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -108,4 +108,4 @@
   <img src="https://komarev.com/ghpvc/?username=simbaig&label=Profile+views&color=3423a6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<a href="https://wasim.is-a.dev"><img width="100%" src="assets/footer.svg" alt="Visit wasim.is-a.dev" /></a>
+<a target="_blank" href="https://wasim.is-a.dev"><img width="100%" src="assets/footer.svg" alt="Visit wasim.is-a.dev" /></a>
