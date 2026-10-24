@@ -1,1 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Wasim Baig - Web, Cloud, Security">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05060f"/>
+      <stop offset="0.5" stop-color="#0b1233"/>
+      <stop offset="1" stop-color="#05060f"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.55" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="260" rx="14"/></clipPath>
+  </defs>
 
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Courier New', monospace; }
+    .drift { animation: drift 9s ease-in-out infinite alternate; }
+    .drift2 { animation: drift2 11s ease-in-out infinite alternate; }
+    .gridmove { animation: gridmove 6s linear infinite; }
+    .scanline { animation: scan 5s linear infinite; }
+    .blink { animation: blink 1s steps(2, start) infinite; }
+    .pulse { animation: pulse 3s ease-in-out infinite; }
+    @keyframes drift { from { transform: translate(0,0); } to { transform: translate(160px,20px); } }
+    @keyframes drift2 { from { transform: translate(0,0); } to { transform: translate(-180px,-15px); } }
+    @keyframes gridmove { from { transform: translateY(0); } to { transform: translateY(40px); } }
+    @keyframes scan { from { transform: translateY(-80px); } to { transform: translateY(300px); } }
+    @keyframes blink { to { opacity: 0; } }
+    @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+
+    <g class="drift"><circle cx="250" cy="120" r="110" fill="#22d3ee" opacity="0.35" filter="url(#blur)"/></g>
+    <g class="drift2"><circle cx="900" cy="150" r="120" fill="#8b5cf6" opacity="0.4" filter="url(#blur)"/></g>
+
+    <g class="gridmove"><rect x="0" y="-40" width="1200" height="340" fill="url(#grid)"/></g>
+
+    <rect class="scanline" x="0" y="0" width="1200" height="80" fill="url(#scan)"/>
+
+    <!-- HUD corners -->
+    <g stroke="#22d3ee" stroke-width="2" fill="none" class="pulse" stroke-linecap="round">
+      <path d="M24 56V24H56"/>
+      <path d="M1144 24H1176V56"/>
+      <path d="M24 204V236H56"/>
+      <path d="M1144 236H1176V204"/>
+    </g>
+
+    <!-- top status line -->
+    <text class="mono" x="70" y="46" font-size="13" fill="#22d3ee" fill-opacity="0.75" letter-spacing="3">SYS://ONLINE</text>
+    <circle class="pulse" cx="58" cy="42" r="4" fill="#22d3ee"/>
+    <text class="mono" x="1130" y="46" font-size="13" fill="#a78bfa" fill-opacity="0.8" letter-spacing="3" text-anchor="end">MUMBAI · IN</text>
+
+    <!-- title -->
+    <text class="mono" x="600" y="140" font-size="76" font-weight="700" text-anchor="middle" fill="url(#txt)" letter-spacing="10" filter="url(#glow)">WASIM BAIG</text>
+
+    <!-- subtitle -->
+    <text class="mono" x="600" y="192" font-size="20" text-anchor="middle" fill="#cbd5e1" letter-spacing="6">WEB  /  CLOUD  /  SECURITY<tspan class="blink" fill="#22d3ee">_</tspan></text>
+
+    <!-- bottom edge line -->
+    <rect x="0" y="257" width="1200" height="3" fill="url(#txt)" opacity="0.8"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="14" fill="none" stroke="#22d3ee" stroke-opacity="0.25"/>
+</svg>
