@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Wasim 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Wasim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security&descAlignY=58&descSize=20" alt="header" />
 
 <p align="center">
-  A <a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">pragmatic programmer</a> who builds fast web apps, ships them to the cloud, and keeps them secure.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Aspiring+Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -93,6 +93,18 @@
 
 ---
 
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simbaig/simbaig/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simbaig/simbaig/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/simbaig/simbaig/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=simbaig&label=Profile+views&color=3423a6&style=for-the-badge" alt="Profile views" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
