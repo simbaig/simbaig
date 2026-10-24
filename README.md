@@ -1,4 +1,4 @@
-<img width="100%" src="assets/header.svg" alt="Wasim Baig - Web / Cloud / Security" />
+<a href="https://wasim.is-a.dev"><img width="100%" src="assets/header.svg" alt="Wasim Baig - Web / Cloud / Security" /></a>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Aspiring+Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
@@ -88,7 +88,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simbaig&theme=monokai&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/simbaig?style=for-the-badge&logo=github&color=3423A6&labelColor=111827" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/simbaig?affiliations=OWNER&style=for-the-badge&logo=github&color=3423A6&labelColor=111827" alt="Stars" />
 </p>
 
 ---
@@ -107,4 +108,4 @@
   <img src="https://komarev.com/ghpvc/?username=simbaig&label=Profile+views&color=3423a6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img width="100%" src="assets/footer.svg" alt="" />
+<a href="https://wasim.is-a.dev"><img width="100%" src="assets/footer.svg" alt="Visit wasim.is-a.dev" /></a>
