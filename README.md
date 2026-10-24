@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Wasim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security&descAlignY=58&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0b2a3f,100:020617&height=240&section=header&text=WASIM&fontSize=80&fontColor=00F5D4&stroke=00F5D4&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=%3E%20web%20%2F%2F%20cloud%20%2F%2F%20security_&descAlignY=66&descSize=20&descColor=7DF9FF" alt="header" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Aspiring+Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Aspiring+Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -107,4 +107,4 @@
   <img src="https://komarev.com/ghpvc/?username=simbaig&label=Profile+views&color=3423a6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0b2a3f,100:020617&height=140&section=footer&animation=twinkling&text=%3E%20connection_closed&fontSize=22&fontColor=00F5D4&fontAlignY=70" alt="footer" />
