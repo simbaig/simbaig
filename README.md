@@ -1,7 +1,7 @@
 <a href="https://wasim.is-a.dev" target="_blank"><img width="100%" src="assets/header.svg" alt="Wasim Baig - Web / Cloud / Security" /></a>
 
 <p align="center">
-  <a href="https://wasim.is-a.dev" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Aspiring+Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
+  <a href="https://wasim.is-a.dev" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;WordPress+%26+Shopify+builder;Cloud+server+admin+(AWS+%2F+GCP);Application+Security+Engineer;A+pragmatic+programmer+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
