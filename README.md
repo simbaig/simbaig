@@ -79,8 +79,8 @@
 ### ⚙️ GitHub stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simbaig&show_icons=true&line_height=18&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbaig&layout=compact&card_width=500&theme=radical&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <img width="49%" src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">
