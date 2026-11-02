@@ -17,7 +17,7 @@
 
 - 💡 Learning something new about 💻 every day
 - 🔐 Growing toward **Application Security Engineering** (web dev + server admin + security)
-- 🎧 🏃 📖 In my free time: music, running, reading
+- 🎧 🏃 📖 In my free time: music, gym, reading
 - 📪 Reach out for questions, collabs, or a meme worth sharing
 
 ---
