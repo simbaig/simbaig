@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=simbaig&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img width="100%" src="assets/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
